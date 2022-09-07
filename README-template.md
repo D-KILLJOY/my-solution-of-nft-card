@@ -27,6 +27,9 @@ Users should be able to:
 
 ### Screenshot
 
+./design/screenshot.png
+./design/screenshot(active).png
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
