@@ -37,6 +37,9 @@ Users should be able to:
 
 ## My process
 
+First i had to think about to arrange every HTML element and how to style them
+After that i started writing the HTML part of the code and when i was done, i moved to the CSS and then i thought about how i could arrange the SVG images and when i got a way i tried it and it worked and i went on with the challenge and finished it.
+
 ### Built with
 
 - Semantic HTML5 markup
